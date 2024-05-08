@@ -1,0 +1,15 @@
+
+jQuery is a fast, small, and feature-rich JavaScript library. It simplifies various tasks in 
+web development, such as HTML document traversal and manipulation, event handling, animation,
+ and Ajax interactions. jQuery makes it easier to write JavaScript code by providing a concise 
+ and easy-to-use API that works across different browsers.
+
+jQuery Mobile, on the other hand, is a framework built on top of jQuery specifically designed
+ for creating mobile web applications. It provides a unified user interface system that is 
+ optimized for touch-based devices like smartphones and tablets. jQuery Mobile allows developers 
+ to create mobile web applications with a consistent look and feel across different platforms 
+ while also offering features like responsive design, touch-friendly widgets, and automatic 
+ scaling to fit various screen sizes.
+
+In summary, jQuery is a general-purpose JavaScript library for web development, while jQuery
+ Mobile is a specialized framework for building mobile web applications.
